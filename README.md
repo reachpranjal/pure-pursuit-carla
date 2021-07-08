@@ -4,7 +4,7 @@ In the Pure Pursuit method, a target point is identified at a distance called lo
 
 ## Algorithm
 
-![fig](/img/diagram.jpg)
+![fig](/img/picture.jpg)
 ```
 For each instant in time {
  - Compute 𝑙_𝑑 = tuning_factor x forward_vel
